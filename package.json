@@ -1,0 +1,1 @@
+{"description":"Entry for the make.fun Funniest One-Line AI Agent Confession competition: writes one confession line to /output/entry.txt.","engines":{"node":">=22.18"},"license":"MIT","main":"main.ts","name":"makefun-funniest-confession","private":true,"scripts":{"start":"node main.ts"},"type":"module","version":"1.0.0"}
